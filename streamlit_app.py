@@ -2,6 +2,11 @@ import streamlit as st
 from streamlit_image_comparison import image_comparison
 import cv2
 
+st.markdown('''
+This is a reproduction of a reproduction of a Streamlit app,
+https://webb-compare.streamlit.app/
+''')
+
 
 st.set_page_config("Webb Space Telescope vs Hubble Telescope", "🔭")
 

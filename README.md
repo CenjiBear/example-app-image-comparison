@@ -1,5 +1,5 @@
 REPRODUCTION of a popular Streamlit app found at https://streamlit.io/gallery
-
+=============================================================================
 
 # 🔭 Example app image comparison
 

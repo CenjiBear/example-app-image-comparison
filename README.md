@@ -1,4 +1,4 @@
-REPRODUCTION of a popular Streamlit app foun at https://streamlit.io/gallery
+REPRODUCTION of a popular Streamlit app found at https://streamlit.io/gallery
 
 
 # 🔭 Example app image comparison
